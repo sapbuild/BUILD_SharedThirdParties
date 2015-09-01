@@ -1,0 +1,21 @@
+{
+  "name": "norman-testing-tp-client",
+  "version": "0.1.0",
+  "description": "Norman testing client third party",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sapbuild/SharedThirdParties.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "https://github.com/SAP/Build/blob/master/LICENSE.txt"
+    }
+  ],
+  "dependencies": {
+    "chromedriver": "2.15.0",
+    "cucumber": "0.4.7",
+    "grunt-protractor-runner": "1.2.1"
+  },
+  "peerDependencies": {}
+}
