@@ -19,7 +19,7 @@
         "node-sap-secure-store" : "0.1.0",
         "node-sap-mailer" : "0.1.0",
         "node-sap-mongo" : "0.1.0",
-        "node-sap-upload" : "0.1.0",
+        "node-sap-upload" : "0.1.1",
         "body-parser" : "1.11.0",
         "composable-middleware" : "0.3.0",
         "express" : "4.11.2",
