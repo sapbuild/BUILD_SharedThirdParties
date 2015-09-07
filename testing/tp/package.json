@@ -1,0 +1,22 @@
+{
+  "name": "norman-testing-tp",
+  "version": "0.1.0",
+  "description": "Norman testing third party",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sapbuild/SharedThirdParties.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "https://github.com/SAP/Build/blob/master/LICENSE.txt"
+    }
+  ],
+  "dependencies": {
+    "chai": "2.2.0",
+    "chai-as-promised": "4.3.0",
+    "chance": "0.7.3",
+    "sinon": "1.14.1"
+  },
+  "peerDependencies": {}
+}
