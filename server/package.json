@@ -17,7 +17,7 @@
         "node-sap-logging" : "0.1.1",
         "node-sap-promise" : "0.1.1",
         "node-sap-secure-store" : "0.1.1",
-        "node-sap-mailer" : "0.1.0",
+        "node-sap-mailer" : "0.1.1",
         "node-sap-mongo" : "0.1.0",
         "node-sap-upload" : "0.1.1",
         "body-parser" : "1.11.0",
