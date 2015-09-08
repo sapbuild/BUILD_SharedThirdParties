@@ -17,7 +17,7 @@
     "heatmap.js": "https://github.com/pa7/heatmap.js/archive/v2.0.tar.gz",
     "angular-sap-ui-elements": "~0.1.21",
     "angular-sap-common-services": "~0.1.7",
-    "angular-sap-common-directives": "~0.1.4",
+    "angular-sap-common-directives": "0.1.1",
     "angular-sap-common-filters": "~0.1.5"
   },
   "peerDependencies": {
