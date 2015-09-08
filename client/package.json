@@ -18,7 +18,7 @@
     "angular-sap-ui-elements": "~0.1.21",
     "angular-sap-common-services": "~0.1.7",
     "angular-sap-common-directives": "0.1.1",
-    "angular-sap-common-filters": "~0.1.5"
+    "angular-sap-common-filters": "0.1.1"
   },
   "peerDependencies": {
     "angular": "1.3.14",
