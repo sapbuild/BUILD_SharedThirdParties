@@ -1,6 +1,6 @@
 {
     "name" : "norman-server-tp",
-    "version" : "0.1.0",
+    "version" : "0.1.1",
     "description" : "Norman server-side shared third party libraries",
     "repository" : {
         "type" : "git",
