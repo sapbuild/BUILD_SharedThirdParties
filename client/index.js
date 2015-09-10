@@ -44,7 +44,7 @@ module.exports = {
     'html2canvas': uiElements.html2canvas,
     'heatmap': require('heatmap.js'),
     'd3' : uiElements.d3,
-	  'sankey':require('norman-d3-plugins/sankey/sankey')
+	  'sankey':require('angular-sap-d3-plugins/sankey/sankey')
 };
 
 //specific case for jsPlumb
