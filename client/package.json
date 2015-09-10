@@ -15,7 +15,7 @@
   "dependencies": {
     "jsPlumb": "https://github.com/sporritt/jsPlumb/archive/1.7.2.tar.gz",
     "heatmap.js": "https://github.com/pa7/heatmap.js/archive/v2.0.tar.gz",
-    "angular-sap-ui-elements": "0.1.11",
+    "angular-sap-ui-elements": "0.1.12",
     "angular-sap-common-services": "0.1.1",
     "angular-sap-common-directives": "0.1.1",
     "angular-sap-common-filters": "0.1.1"
