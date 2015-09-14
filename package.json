@@ -1,6 +1,6 @@
 {
   "name": "norman-common-tp",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Norman shared third party libraries",
   "repository": {
     "type": "git",
@@ -25,6 +25,6 @@
     "gulp-mocha": "~2.0.1",
     "gulp-util": "~3.0.4",
     "mocha": "~2.0.1",
-    "norman-server-tp": "0.1.1"
+    "norman-server-tp": "0.3.0"
   }
 }
