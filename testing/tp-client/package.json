@@ -16,6 +16,5 @@
     "chromedriver": "2.15.0",
     "cucumber": "0.4.7",
     "grunt-protractor-runner": "1.2.1"
-  },
-  "peerDependencies": {}
+  }
 }

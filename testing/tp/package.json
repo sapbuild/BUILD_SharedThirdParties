@@ -17,6 +17,5 @@
     "chai-as-promised": "4.3.0",
     "chance": "0.7.3",
     "sinon": "1.14.1"
-  },
-  "peerDependencies": {}
+  }
 }
